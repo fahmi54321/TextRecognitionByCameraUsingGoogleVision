@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "45 Text Recognition by Camera using Google Vision"
